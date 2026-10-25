@@ -1,6 +1,8 @@
 {
-  "private": true,
+  "name": "html-starter-with-analytics",
+  "version": "1.0.0",
+  "type": "module",
   "dependencies": {
-    "@vercel/edge": "^0.1.2"
+    ...
   }
 }
